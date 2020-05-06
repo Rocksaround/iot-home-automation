@@ -1,0 +1,6 @@
+nodemcu=300
+4channel relay module=230
+2 breadboard=400
+jumper wires=100
+transformer=100
+LM317 voltage regulator=160
